@@ -60,7 +60,7 @@ Right now, there aren’t many tools that can instantly translate sign language 
 Our project aims to solve these problems by creating a smart system that uses artificial intelligence (AI) and machine learning (ML) to detect and understand sign language gestures. Think of it like a smart assistant that can watch and understand your hand movements, then tell you what they mean. This system will help both people who use sign language and those learning it by providing real-time translations and feedback. This way, communication becomes smoother and learning sign language becomes easier.
 
 2. Literature Review 
-The literature review explores existing methods and technologies in sign language recognition, including: 
+The literature review explores existing methods and technologies in sign language recognition, including:<br> 
 •	Traditional image processing techniques 
 •	Machine learning models such as Convolutional Neural Networks (CNNs) 
 •	Recent advancements in deep learning for gesture recognition 
