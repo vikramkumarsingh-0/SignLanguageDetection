@@ -1,5 +1,5 @@
 # SignLanguageDetection
-A  
+
 Project Report on 
 Sign Language Detection & Learning 
 Submitted in partial fulfillment of completion of the course 
