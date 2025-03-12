@@ -66,11 +66,11 @@ The literature review explores existing methods and technologies in sign languag
 •	Recent advancements in deep learning for gesture recognition<br>
 •	Comparative analysis of various approaches and their effectiveness<br>
 
-3. Proposed Solution 
-Our solution leverages computer vision and machine learning to detect and interpret sign language gestures. The system captures real-time video inputs using cameras, processes the images using a trained neural network, and translates the gestures into text or speech. The key components of the solution include: 
-•	Gesture recognition algorithm 
-•	User interface for interaction 
-•	Learning module for educational purposes
+3. Proposed Solution<br>
+Our solution leverages computer vision and machine learning to detect and interpret sign language gestures. The system captures real-time video inputs using cameras, processes the images using a trained neural network, and translates the gestures into text or speech. The key components of the solution include: <br>
+•	Gesture recognition algorithm.<br>
+•	User interface for interaction.<br>
+•	Learning module for educational purposes.<br>
 
 4.Requirements 
 
