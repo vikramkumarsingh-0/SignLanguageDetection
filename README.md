@@ -53,12 +53,10 @@ Suraj Singh - Conducted testing, validation, and debugging of the system.
 Yash Choure – Data collection, Research, Compiled project documentation, reports, and user manuals, Oversaw overall project management 
  
  
-1.Introduction to Problem
-
+1. Introduction to Problem<br>
 Sign language is an essential way for people who are deaf or hard of hearing to communicate. Imagine you’re in a room where everyone is using sign language to talk. If you don’t know sign language, it can be hard to understand what’s being said. 
 Right now, there aren’t many tools that can instantly translate sign language into spoken or written words, or that can help people learn sign language easily. For example, if someone is trying to learn sign language on their own, they might find it difficult to get real-time feedback on whether they are making the signs correctly. 
-Our project aims to solve these problems by creating a smart system that uses artificial intelligence (AI) and machine learning (ML) to detect and understand sign language gestures. Think of it like a smart assistant that can watch and understand your hand movements, then tell you what they mean. This system will help both people who use sign language and those learning it by providing real-time translations and feedback. This way, communication becomes smoother and learning sign language becomes easier.
-
+Our project aims to solve these problems by creating a smart system that uses artificial intelligence (AI) and machine learning (ML) to detect and understand sign language gestures. Think of it like a smart assistant that can watch and understand your hand movements, then tell you what they mean. This system will help both people who use sign language and those learning it by providing real-time translations and feedback. This way, communication becomes smoother and learning sign language becomes easier.<br>
 2. Literature Review 
 The literature review explores existing methods and technologies in sign language recognition, including:<br> 
 •	Traditional image processing techniques<br>
