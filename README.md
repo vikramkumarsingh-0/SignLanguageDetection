@@ -45,7 +45,8 @@ Acknowledgement
 We extend our heartfelt gratitude to Ranjit Saliyan, our project advisor, for their invaluable guidance and support throughout the project. We also acknowledge the feedback and resources provided by open-source community, which were 
 instrumental in the success of this project. 
  
-Team Composition and Workload Division 
+Team Composition and Workload Division
+
 Vikram Singh - Algorithm development, model creating and model training. 
 Shubham Singh - Focused on application development, integration, user interface, model creating and model training. 
 Suraj Singh - Conducted testing, validation, and debugging of the system. 
